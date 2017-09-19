@@ -1,0 +1,7 @@
+#Wed May 31 23:37:15 EDT 2017
+base.0=/Users/haris/Documents/SenseFall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f9cd804f1c77983596bca6befe2157000cd0fd17
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/haris/Documents/SenseFall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_673eaa16099a3a8682a3ac88318731c47f0ba37c/classes.dex
+base.1=/Users/haris/Documents/SenseFall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_673eaa16099a3a8682a3ac88318731c47f0ba37c
+file.0=/Users/haris/Documents/SenseFall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f9cd804f1c77983596bca6befe2157000cd0fd17/classes.dex

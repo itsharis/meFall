@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/haris/Documents/SenseFall/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/haris/Documents/SenseFall/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/haris/Documents/SenseFall/app/build/intermediates/res/merged/debug/layout/display_message.xml",
+        "source": "/Users/haris/Documents/SenseFall/app/src/main/res/layout/display_message.xml"
+    },
+    {
+        "merged": "/Users/haris/Documents/SenseFall/app/build/intermediates/res/merged/debug/layout/accel_main.xml",
+        "source": "/Users/haris/Documents/SenseFall/app/src/main/res/layout/accel_main.xml"
+    }
+]

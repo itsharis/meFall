@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/haris/Documents/SenseFall/app/build/intermediates/res/merged/debug/raw/lying.wav",
+        "source": "/Users/haris/Documents/SenseFall/app/src/main/res/raw/lying.wav"
+    },
+    {
+        "merged": "/Users/haris/Documents/SenseFall/app/build/intermediates/res/merged/debug/raw/sitting.wav",
+        "source": "/Users/haris/Documents/SenseFall/app/src/main/res/raw/sitting.wav"
+    },
+    {
+        "merged": "/Users/haris/Documents/SenseFall/app/build/intermediates/res/merged/debug/raw/walking.wav",
+        "source": "/Users/haris/Documents/SenseFall/app/src/main/res/raw/walking.wav"
+    },
+    {
+        "merged": "/Users/haris/Documents/SenseFall/app/build/intermediates/res/merged/debug/raw/inhand.wav",
+        "source": "/Users/haris/Documents/SenseFall/app/src/main/res/raw/inhand.wav"
+    },
+    {
+        "merged": "/Users/haris/Documents/SenseFall/app/build/intermediates/res/merged/debug/raw/standing.wav",
+        "source": "/Users/haris/Documents/SenseFall/app/src/main/res/raw/standing.wav"
+    },
+    {
+        "merged": "/Users/haris/Documents/SenseFall/app/build/intermediates/res/merged/debug/raw/fall.wav",
+        "source": "/Users/haris/Documents/SenseFall/app/src/main/res/raw/fall.wav"
+    }
+]

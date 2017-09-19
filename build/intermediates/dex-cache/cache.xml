@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/haris/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/haris/Documents/SenseFall/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_ca4ddc9dedc2125d3936f089e4fc8d0fa5d3a6dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haris/Documents/SenseFall/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe5e07e4a3c1b2dab727f0a58172044c51f47fbb">
+        <dex dex="/Users/haris/Documents/SenseFall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_673eaa16099a3a8682a3ac88318731c47f0ba37c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haris/Documents/SenseFall/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d18fc51088be041685742ccabf65922cedecb8c8">
+        <dex dex="/Users/haris/Documents/SenseFall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f9cd804f1c77983596bca6befe2157000cd0fd17/classes.dex" />
+    </item>
+
+</items>
